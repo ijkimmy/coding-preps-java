@@ -1,4 +1,6 @@
 public class leetcode_md_287_finddup {
+
+    // 40m
     public int findDuplicate(int[] nums) {
         // // negative marking, time: O(n), space: O(1)
         // // BUT it makes changes to array!
