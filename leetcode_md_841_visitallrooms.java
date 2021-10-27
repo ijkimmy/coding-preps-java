@@ -1,5 +1,5 @@
 import java.util.List;
-public class leetcode_md_741_visitallrooms {
+public class leetcode_md_841_visitallrooms {
 
     // 18m
     public boolean canVisitAllRooms(List<List<Integer>> rooms) {
