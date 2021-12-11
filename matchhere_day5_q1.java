@@ -1,5 +1,6 @@
 public class matchhere_day5_q1 {
     public static void main(String[] args){
+        // BJ 4673
         final int bound = 10000;
         boolean[] isdn = new boolean[bound+1];
         for(int i=1; i<=bound; ++i){
