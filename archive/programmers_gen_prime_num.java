@@ -1,5 +1,4 @@
-package RecSys_3_Algorithm.ijkimmy.Pro;
-
+// Rec. Sys. Grp3. Coding Test Study
 // https://programmers.co.kr/learn/courses/30/lessons/42839
 // 한자리 숫자가 적힌 종이 조각이 흩어져있습니다. 
 // 흩어진 종이 조각을 붙여 소수를 몇 개 만들 수 있는지 알아내려 합니다.
