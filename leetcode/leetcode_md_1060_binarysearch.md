@@ -65,8 +65,8 @@ Explanation: The missing numbers are [3,5,6,7,...], hence the third missing numb
 
 `nums`를 `k`만큼 돌며 찾아내기 
 
-*Time Complexity*: $O(n+k)$  
-*Space Complexity*: $O(1)$
+*Time Complexity*: O(n+k)  
+*Space Complexity*: O(1)
 
 <br />
   
@@ -109,5 +109,5 @@ class Solution {
 }
 ```
 
-*Time Complexity*: $O(\operatorname{log} n)$  
-*Space Complexity*: $O(1)$
+*Time Complexity*: O(log n)  
+*Space Complexity*: O(1)
